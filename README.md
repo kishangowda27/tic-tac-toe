@@ -10,3 +10,9 @@ The game allows two players to take turns marking cells in a 3x3 grid until one 
 - HTML for the game structure
 - CSS for styling and layout
 - JavaScript for game logic
+
+
+
+### Live Demo
+Check out the live demo [here](https://kishangowda27.github.io/tic-tac-toe/)
+
